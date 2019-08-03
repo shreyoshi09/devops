@@ -1,0 +1,8 @@
+apt-get install git
+git config -global user.name "name" user.email "emailid" 
+git init
+git add <file name> 
+git add .
+git status
+git commit -m "message"
+git log
