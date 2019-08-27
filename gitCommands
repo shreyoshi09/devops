@@ -11,4 +11,3 @@ git show
 git checkout filename || working directory
 git remote set-url <link of remote repository>
 git remote -v
-git remote add origin link
